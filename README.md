@@ -7,6 +7,8 @@ Hi, I’m Mohit Tondre<br>A passionate MERN Stack Developer building scalable an
 
 ## ▶️ CapStone : https://cap-stone-opal.vercel.app/
 
+## Student Registration Dashboard 👨🏻‍💻 : https://studentregistrationsystem-blue.vercel.app/
+
 
 
 ## 🌐 Socials:
